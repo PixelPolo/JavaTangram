@@ -16,6 +16,7 @@ Step 1 :
 Step 2 :
 
     I implemented an extra method g2DFill for drawing shapes with a Graphics2D.
+    (because I didn't use the library from the university for drawing.
     This method is abstract inside Shape abstract class.
 
 Step 3 :
@@ -50,7 +51,7 @@ Step 4 :
 
         I created 2 constructors :
             - One with (Color & List<? extends Shape>.
-                In this case, the group center ic computed by the mean of each shapes from the List.
+                In this case, the group center is computed by the mean of each shapes from the List.
                 This computation is made by a static method.
             - One with (Color & List<? extends Shape> & Point)
                 In this case, the point represent the "anchor" of the Group.
