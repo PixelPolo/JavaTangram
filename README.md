@@ -1,5 +1,5 @@
 # JavaTangram
-Project for university of Fribourg 
+University of Fribourg project 
 
 
  * ALL RIGHTS RESERVED :
