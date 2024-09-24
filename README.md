@@ -90,4 +90,7 @@ Step 5 :
 
 
 
+<img src="https://github.com/PixelPolo/TangramGame/blob/main/tangram.png" alt="tangram" width="400">
+
+
 
